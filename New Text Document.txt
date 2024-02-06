@@ -1,0 +1,15 @@
+# Set parameters
+#energy gap between two levels in eV
+E_if = 3
+#prefactor
+I0 = 0.00000001
+#T_parameter for gaussian pulse(ditermines width of gaussin pulse) in fs
+T = 0.01
+#initial time in fs
+t0 = -0.1
+#end_time in fs
+t_final = 0.1
+#number of points
+num_points = 10000
+#frequency offcet in eV
+omega = 2

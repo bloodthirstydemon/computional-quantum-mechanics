@@ -1,0 +1,11 @@
+#Parameters
+N = 10
+J = 1
+B_lower = -10
+B_higher = 10
+T_lower = 0.1
+T_higher = 10
+num_steps = 1000
+discard_steps = 500
+fixed_B = 10
+fixed_temperature = 20

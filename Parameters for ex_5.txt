@@ -1,0 +1,15 @@
+# Parameters for computational physics in quantum mechanics ex_5
+# Constants
+#mass of the particle in atomic units
+m = 1.0
+#Potential coefficient
+C = 1
+# Potential coefficient
+D = 0.0001
+# Potential coefficient
+E = 0.0001
+# dimention of the simulation
+x_min = -10.0
+x_max = 10.0
+# number of x steps
+num_points = 500

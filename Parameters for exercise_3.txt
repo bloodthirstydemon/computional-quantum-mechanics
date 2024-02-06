@@ -1,0 +1,35 @@
+# Parameters for computational physics in quantum mechanics ex_3
+#
+# total time period (fs)
+T = 30
+#
+#sigma parameter for gaussian wave function
+sigma = 1e10
+#
+#total length of 1D space(x coordinate)
+x = 100
+#
+#wave vector for the wavefunction (rad/A°)(=> determines energy of the wavefunction)
+k = 1
+#
+#mass of particle(electron =5.489e-4 AMU)
+m = 5.489e-4
+#
+#number of space steps
+number_of_steps_x = 300
+#
+#number of time steps
+number_of_steps_t = 300
+#
+#position of the step potential
+l = 50
+#total_width_of_potential_well
+potential_well_width = 150
+#
+#height_of_step_potential(in eV)
+v = 10
+#width of step potential in A°
+w = 2
+#height_of_potential
+height = 10000000000
+#

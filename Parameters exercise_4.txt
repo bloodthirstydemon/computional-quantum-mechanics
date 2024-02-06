@@ -1,0 +1,13 @@
+#time(fs)
+T=1
+#space coordinate(A°)
+x=4
+n=30
+#spring_constant(N/m)
+C=1500
+#mass of particle
+m=2000
+#number of time steps
+number_of_steps_t=400
+#number_of_space_steps(power of 2)
+number_of_space_steps=10
