@@ -1,0 +1,14 @@
+# Parameters for computational physics in quantum mechanics ex_2
+#
+#occupation of level 1
+E1 = 0
+#occupation in level 2
+E2 = 0
+#potential energy in units of eV
+V0 = 10
+#frequency of oscillating potential potential(rad/fs)
+w = 2
+#total time for iteration(fs)
+T = 10
+#time step(fs)
+dt = 0.001
