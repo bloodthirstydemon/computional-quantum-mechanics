@@ -1,0 +1,14 @@
+# write all the parameters for the Eulers exercise 1 here
+#
+#energy of a system(in the units of eV)
+E0 = 1
+#
+#total time of iteration(in the units of fs)
+total_time = 30.0
+#
+#step size of the iteration(in the units of fs)
+time_step = 0.001
+#
+#initialise two variables (t {in the unit of fs} & psi {just a complex number})
+t = 0.0
+psi = 1+0j
