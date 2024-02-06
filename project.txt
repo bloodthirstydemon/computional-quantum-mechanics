@@ -1,0 +1,21 @@
+# Parameters for computational physics in quantum mechanics ex_3
+# Set parameters
+#time(fs)
+T = 0.0001
+#space coordinate(A°)
+x = 2
+# displacement_of_potential
+x0 = 0
+#displacement_of_wavefunction
+s0 = 0
+# spring_constant(N/m)
+C = 1500
+#
+#mass of particle
+m = 2000
+#
+#number of time steps
+number_of_steps_t = 10000
+#
+#number_of_space_steps(power of 2)
+number_of_space_steps = 8
